@@ -1,2 +1,2 @@
-# Prepcourse_Henry
-soy estudiante de  prepcourse de henry - modulo 2 prueba-
+Daniel Alexander Torrado
+este proyecto es una prueba de como clonar desde github 
